@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Arena_War_2D\Arena_War_2D\bin\Debug\Arena_War_2D.exe.config
+C:\Users\user\source\repos\Arena_War_2D\Arena_War_2D\bin\Debug\Arena_War_2D.exe
+C:\Users\user\source\repos\Arena_War_2D\Arena_War_2D\bin\Debug\Arena_War_2D.pdb
+C:\Users\user\source\repos\Arena_War_2D\Arena_War_2D\obj\Debug\Arena_War_2D.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Arena_War_2D\Arena_War_2D\obj\Debug\Arena_War_2D.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Arena_War_2D\Arena_War_2D\obj\Debug\Arena_War_2D.Form1.resources
+C:\Users\user\source\repos\Arena_War_2D\Arena_War_2D\obj\Debug\Arena_War_2D.Properties.Resources.resources
+C:\Users\user\source\repos\Arena_War_2D\Arena_War_2D\obj\Debug\Arena_War_2D.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Arena_War_2D\Arena_War_2D\obj\Debug\Arena_War_2D.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arena_War_2D\Arena_War_2D\obj\Debug\Arena_War_2D.exe
+C:\Users\user\source\repos\Arena_War_2D\Arena_War_2D\obj\Debug\Arena_War_2D.pdb
